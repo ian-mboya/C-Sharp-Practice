@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C# practice areas\C-Sharp-Practice\individual-projects-built\basic-number-operations\bin\Debug\net7.0\basic-number-operations.exe
+C:\Users\Admin\Desktop\C# practice areas\C-Sharp-Practice\individual-projects-built\basic-number-operations\bin\Debug\net7.0\basic-number-operations.deps.json
+C:\Users\Admin\Desktop\C# practice areas\C-Sharp-Practice\individual-projects-built\basic-number-operations\bin\Debug\net7.0\basic-number-operations.runtimeconfig.json
+C:\Users\Admin\Desktop\C# practice areas\C-Sharp-Practice\individual-projects-built\basic-number-operations\bin\Debug\net7.0\basic-number-operations.dll
+C:\Users\Admin\Desktop\C# practice areas\C-Sharp-Practice\individual-projects-built\basic-number-operations\bin\Debug\net7.0\basic-number-operations.pdb
+C:\Users\Admin\Desktop\C# practice areas\C-Sharp-Practice\individual-projects-built\basic-number-operations\obj\Debug\net7.0\basic-number-operations.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C# practice areas\C-Sharp-Practice\individual-projects-built\basic-number-operations\obj\Debug\net7.0\basic-number-operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# practice areas\C-Sharp-Practice\individual-projects-built\basic-number-operations\obj\Debug\net7.0\basic-number-operations.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# practice areas\C-Sharp-Practice\individual-projects-built\basic-number-operations\obj\Debug\net7.0\basic-number-operations.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# practice areas\C-Sharp-Practice\individual-projects-built\basic-number-operations\obj\Debug\net7.0\basic-number-operations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# practice areas\C-Sharp-Practice\individual-projects-built\basic-number-operations\obj\Debug\net7.0\basic-number-operations.dll
+C:\Users\Admin\Desktop\C# practice areas\C-Sharp-Practice\individual-projects-built\basic-number-operations\obj\Debug\net7.0\refint\basic-number-operations.dll
+C:\Users\Admin\Desktop\C# practice areas\C-Sharp-Practice\individual-projects-built\basic-number-operations\obj\Debug\net7.0\basic-number-operations.pdb
+C:\Users\Admin\Desktop\C# practice areas\C-Sharp-Practice\individual-projects-built\basic-number-operations\obj\Debug\net7.0\basic-number-operations.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# practice areas\C-Sharp-Practice\individual-projects-built\basic-number-operations\obj\Debug\net7.0\ref\basic-number-operations.dll

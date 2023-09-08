@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "basic-number-operations/1.0.0": {
+        "runtime": {
+          "basic-number-operations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "basic-number-operations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
